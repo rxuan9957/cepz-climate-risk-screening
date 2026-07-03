@@ -1,0 +1,13 @@
+zone_id,zone_name,province,heritage_type,risk_score,risk_class,exposure_index,value_sensitivity_index,vulnerability_index,priority_action
+CEPZ-006,Lancang River Tea-Forest Cultural Landscape,Yunnan,Tea agroforestry and ethnic cultural landscape,65.4,High,59.3,87.3,40.9,Prepare targeted adaptation project; focus on heat stress adaptation plan.
+CEPZ-009,Pearl River Delta Water-Town Heritage Cluster,Guangdong,Water-town heritage and delta ecosystem,64.9,Moderate,66.8,82.5,29.7,Track indicators annually and test low-regret adaptation options.
+CEPZ-002,Dongting Lake Reed Wetland Heritage Zone,Hunan,Lake wetland and traditional fishing culture,64.2,Moderate,58.4,85.5,39.8,Track indicators annually and test low-regret adaptation options.
+CEPZ-010,Wuyi Mountain Tea Cultural-Ecological Zone,Fujian,Tea heritage and subtropical forest ecosystem,63.1,Moderate,57.5,88.1,32.0,Track indicators annually and test low-regret adaptation options.
+CEPZ-003,Tulou Mountain Agricultural Landscape,Fujian,Vernacular architecture and terrace agroecosystem,62.8,Moderate,56.9,85.9,35.8,Track indicators annually and test low-regret adaptation options.
+CEPZ-001,Minjiang Upper Valley Cultural-Ecological Reserve,Sichuan,River valley settlements and forest mosaic,62.0,Moderate,51.9,85.3,44.1,Track indicators annually and test low-regret adaptation options.
+CEPZ-011,Tarim Basin Oasis Cultural Landscape,Xinjiang,Oasis settlements and desert-edge ecology,61.7,Moderate,48.3,80.8,58.4,Strengthen monitoring, local response capacity, and maintenance routines.
+CEPZ-004,Hexi Corridor Oasis Heritage Belt,Gansu,Oasis agriculture and Silk Road cultural landscape,61.6,Moderate,49.1,82.9,52.8,Track indicators annually and test low-regret adaptation options.
+CEPZ-012,Jiangnan Canal Heritage Wetland Zone,Jiangsu,Canal heritage and wetland-town landscape,60.8,Moderate,59.5,81.1,28.1,Track indicators annually and test low-regret adaptation options.
+CEPZ-008,Qilian Mountain Pastoral Cultural-Ecological Zone,Qinghai,Pastoral culture and alpine ecosystem,59.7,Moderate,44.0,82.4,55.4,Strengthen monitoring, local response capacity, and maintenance routines.
+CEPZ-007,Loess Plateau Terrace Heritage Zone,Shaanxi,Terraced farming and soil conservation landscape,59.6,Moderate,51.1,76.3,49.8,Track indicators annually and test low-regret adaptation options.
+CEPZ-005,Sanjiang Plain Wetland Farming Culture,Heilongjiang,Wetland ecology and farming heritage,57.3,Moderate,43.9,80.3,47.4,Track indicators annually and test low-regret adaptation options.
